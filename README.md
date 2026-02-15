@@ -43,7 +43,7 @@ To build a robust system, I followed a structured learning path:
 ### 2. UI/UX Discovery & Vision 🎨
 
 **The Struggle:** I initially lacked a no clear vision for a "Bookmark UI." I didn't know how to make it both functional and ui designs.
-**The Fix:** I conducted extensive research, referencing online design documents, YouTube tutorials, and AI brainstorming. This led to a final idea of **Glassmorphism** design with synchronized video backgrounds that react to the theme toggle.
+**The Fix:** I conducted extensive research, referencing online design documents, YouTube tutorials, and AI brainstorming. This led to a final idea of **Glassmorphism** design with synchronized backgrounds that react to the theme toggle as light and dark mode of the website.
 
 ### 3. Deployment & Post-Launch Debugging 🚀
 

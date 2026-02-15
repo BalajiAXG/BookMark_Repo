@@ -12,6 +12,7 @@ interface Bookmark {
   category?: string;
 }
 
+
 const categorize = (url: string): string => {
   const lowerUrl = url.toLowerCase();
   const rules: Record<string, string[]> = {

@@ -54,13 +54,13 @@ To build a robust system, I followed a structured learning path:
 
 ## 🚀 Getting Started
 
-First, run the development server:
+At First, runned the development server:
 
 ```bash
 npm run dev
 
 ```
 
-Open [http://localhost:3000](https://www.google.com/search?q=http://localhost:3000) with your browser to see the result.
+and Opened in localhost [http://localhost:3000](https://www.google.com/search?q=http://localhost:3000) with My browser to see the result.
 
 ---

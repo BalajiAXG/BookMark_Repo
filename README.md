@@ -1,6 +1,6 @@
 # 🔖 Modern Bookmark Manager
 
-A high-end, real-time bookmarking application built with **Next.js**, **Supabase**, and an immersive **Global Theme Engine**. This project features dynamic video backgrounds and a glassmorphic UI, providing a seamless experience for managing digital resources.
+A high-end, real-time bookmarking application built with **Next.js**, **Supabase**, and an immersive **Global Theme Engine**. This project features dynamic backgrounds and a glassmorphic UI, providing a seamless experience for managing digital resources.
 
 ---
 
@@ -48,7 +48,7 @@ To build a robust system, I followed a structured learning path:
 ### 3. Deployment & Post-Launch Debugging 🚀
 
 **The Struggle:** Deploying a full-stack app revealed hidden bugs that didn't appear in the local environment.
-**The Fix:** After deployment, I faced errors regarding authentication redirect loops and environment variables. I systematically audited the Supabase callback URLs and optimized the code to handle the persistent video background lag.
+**The Fix:** After deployment, I faced errors regarding authentication redirect loops and environment variables. I systematically audited the Supabase callback URLs and optimized the code to handle the persistent background lag.
 
 ---
 
